@@ -1,8 +1,6 @@
 # trader_history_intervals
 
-## This is a portion of code from my ongoing coin trader project.
-
-
+### This is a portion of code from my ongoing coin trader project.
 ### The goal of the project is to create a paper trading platform for crypto.
 
 
